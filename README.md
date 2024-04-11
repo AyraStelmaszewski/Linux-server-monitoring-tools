@@ -3,8 +3,8 @@ Personnal automated monitoring tools for linux server.
 <br>
 ## Features
 - Monitor system resources such as CPU, memory, disk usage, and network activity.
+- Report firewall autorisation
 - Generate reports on system uptime, service status, and user activity.
-- Automate alerts for critical system events.
 - Easily customizable and extensible to suit your specific monitoring needs.
 
 ## Usage
